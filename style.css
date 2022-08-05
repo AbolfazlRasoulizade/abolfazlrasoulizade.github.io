@@ -5,10 +5,12 @@ h1 {
   color : blue;
   }
 img {
-  border-top-right-radius : 150px;
-  border-bottom-left-radius : 150px;
-  border-top-left-radius : 150px;
-  border-bottom-right-radius : 150px;
-  border-width : 40px;
+  border-style : Outset;
   border-color : black;
+  border-width : 10px;
+  border-top-right-radius : 150px;
+  border-bottom-left-radius : 250px;
+  border-top-left-radius : 150px;
+  border-bottom-right-radius : 250px;
+ 
 }
