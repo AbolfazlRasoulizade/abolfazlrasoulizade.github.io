@@ -5,7 +5,7 @@ h1 {
   color : blue;
   }
 img {
-  border-style : Outset;
+  border-style : dashed;
   border-color : black;
   border-width : 10px;
   border-top-right-radius : 150px;
