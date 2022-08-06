@@ -1,6 +1,5 @@
 body {
   text-align: center;
-  background-color : powderblue;
   }
 h1 { 
   color : brown;
@@ -26,4 +25,5 @@ img {
   border-style : double;
   border-color : black;
   border-width : 10px;
+  background-color : powderblue;
 }
