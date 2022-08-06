@@ -12,7 +12,7 @@ body {
   }
 h1 { 
   color : brown;
-  font-family : pinyon script;
+  font-family : "pinyon script";
   }
 img {
   border-style : double;
