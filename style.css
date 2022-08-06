@@ -5,7 +5,6 @@
 
 
 
-
 body {
   text-align: center;
   background-color : powderblue;
@@ -23,3 +22,14 @@ img {
   border-bottom-right-radius : 100px;
   border-top-left-radius : 100px;
   }
+#square {
+  width: 2000px;
+  height: 3000px;
+  border-top-right-radius : 100px;
+  border-bottom-left-radius : 100px;
+  border-bottom-right-radius : 100px;
+  border-top-left-radius : 100px;
+  border-style : double;
+  border-color : black;
+  border-width : 10px;
+}
