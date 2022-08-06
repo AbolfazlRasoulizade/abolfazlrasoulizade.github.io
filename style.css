@@ -26,4 +26,6 @@ img {
   border-color : black;
   border-width : 10px;
   background-color : powderblue;
+  margin-right : auto;
+  margin-left : auto;
 }
