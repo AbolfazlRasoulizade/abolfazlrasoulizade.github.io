@@ -6,9 +6,6 @@ h1 {
   font-family : "pinyon script";
   }
 img {
-  border-style : double;
-  border-color : black;
-  border-width : 10px;
   border-top-right-radius : 100px;
   border-bottom-left-radius : 100px;
   border-bottom-right-radius : 100px;
@@ -19,6 +16,6 @@ h3 {
 }
 .profile {
   background-image : url("https://github.com/abolfazlrasoulizade/abolfazlrasoulizade.github.io/blob/main/img/wp5710611.jpg?raw=true");
-  background-size : auto auto;
+  background-size : 1000px 500px;
   background-repeat : no-repeat;
 }
