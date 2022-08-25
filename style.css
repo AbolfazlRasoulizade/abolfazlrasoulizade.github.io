@@ -20,4 +20,5 @@ h3 {
 .profile {
   background-image : url("https://github.com/abolfazlrasoulizade/abolfazlrasoulizade.github.io/blob/main/img/wp5710611.jpg?raw=true");
   background-size : auto auto;
+  background-repeat : no-repeat;
 }
