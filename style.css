@@ -17,3 +17,7 @@ img {
 h3 {
   font-family : "Monsieur La Doulaise"
 }
+.profile {
+  background-image : url("https://github.com/abolfazlrasoulizade/abolfazlrasoulizade.github.io/blob/main/img/wp5710611.jpg?raw=true")
+  background-size : 500px 200px;
+}
