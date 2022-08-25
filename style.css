@@ -1,9 +1,5 @@
-body {
+* {
   text-align: center;
-  }
-h1 { 
-  color : brown;
-  font-family : "pinyon script";
   }
 img {
   weight : 150px;
@@ -13,9 +9,6 @@ img {
   border-bottom-right-radius : 10px;
   border-top-left-radius : 10px;
   }
-h3 {
-  font-family : "Monsieur La Doulaise"
-}
 .profile {
   text-align: center;
   background-image : url("https://github.com/abolfazlrasoulizade/abolfazlrasoulizade.github.io/blob/main/img/wp5710611.jpg?raw=true");
