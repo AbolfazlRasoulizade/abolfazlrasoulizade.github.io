@@ -1,6 +1,3 @@
-* {
-  text-align: center;
-  }
 img {
   weight : 150px;
   height : 150px;
@@ -12,6 +9,10 @@ img {
 .profile {
   text-align: center;
   background-image : url("https://github.com/abolfazlrasoulizade/abolfazlrasoulizade.github.io/blob/main/img/wp5710611.jpg?raw=true");
-  background-size : 1000px 500px;
   background-repeat : no-repeat;
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+  min-width: 100%;
+  min-height: 100%;
 }
