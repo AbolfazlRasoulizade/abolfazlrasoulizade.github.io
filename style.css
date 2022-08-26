@@ -1,5 +1,8 @@
-html {
+html , body {
   height : 100hv;
+  background-image : url("https://github.com/abolfazlrasoulizade/abolfazlrasoulizade.github.io/blob/main/img/wp5710611.jpg?raw=true");
+  backgriund-position : center, center;
+  background-size : contain;
 }
 img {
   text-align : center;
@@ -10,8 +13,3 @@ img {
   border-bottom-right-radius : 10px;
   border-top-left-radius : 10px;
   }
-.profile {
-  background-image : url("https://github.com/abolfazlrasoulizade/abolfazlrasoulizade.github.io/blob/main/img/wp5710611.jpg?raw=true");
-  width : 500px;
-  height : 1750px;
-}
