@@ -3,6 +3,7 @@ html , body {
   background-image : url("https://github.com/abolfazlrasoulizade/abolfazlrasoulizade.github.io/blob/main/img/wp5710611.jpg?raw=true");
   backgriund-position : center, center;
   background-size : contain;
+  background-repeat : no-repeat;
 }
 img {
   text-align : center;
