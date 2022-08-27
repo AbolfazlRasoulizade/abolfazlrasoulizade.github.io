@@ -3,7 +3,9 @@ html {
 }
 
 body {
-	background-color : #ff5;
+  background-color : #ff5;
+  margin-top : auto;
+  margin-botton : auto;
 }
 
 .frame{
