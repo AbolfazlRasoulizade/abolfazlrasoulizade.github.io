@@ -3,12 +3,12 @@ html {
 }
 
 .frame{
-	width : 320px;
-	height : 650px;
-	margin-left: auto;
+  width : 320px;
+  height : 650px;
+  margin-left: auto;
   margin-right : auto;
-	border-radius : 40px ;
-	border : 6px solid black;
+  border-radius : 40px ;
+  border : 6px solid black;
 }
 
 .back {
@@ -16,8 +16,8 @@ html {
   height : 276px;
   background-color : green;
   background-image : url("https://github.com/abolfazlrasoulizade/abolfazlrasoulizade.github.io/blob/main/img/Vector_29.jpg?raw=true");
-	border-top-right-radius : 30px ;
-	border-top-left-radius : 30px ;
+  border-top-right-radius : 30px ;
+  border-top-left-radius : 30px ;
 }
 
 .profile{
@@ -26,11 +26,11 @@ html {
 }
 
 .camera {
-	margin-left : auto;
-	margin-right : auto;
-	width : 100px;
-	height : 20px;
-	background-color : black;
-	border-bottom-right-radius : 15px;
-	border-bottom-left-radius : 15px;
+  margin-left : auto;
+  margin-right : auto;
+  width : 100px;
+  height : 20px;
+  background-color : black;
+  border-bottom-right-radius : 15px;
+  border-bottom-left-radius : 15px;
 }
