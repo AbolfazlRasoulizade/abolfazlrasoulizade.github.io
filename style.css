@@ -2,7 +2,7 @@ html , body {
   height : 100hv;
   background-image : url("https://github.com/abolfazlrasoulizade/abolfazlrasoulizade.github.io/blob/main/img/wp5710611.jpg?raw=true");
   background-position : center center;
-  background-size : contain;
+  background-size : cover;
   background-repeat : no-repeat;
 }
 img {
