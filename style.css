@@ -6,7 +6,8 @@ html {
   width : 480px;
   height : 276px;
   background-color : green;
-  background-image : url("https://github.com/abolfazlrasoulizade/abolfazlrasoulizade.github.io/blob/main/img/Vector_29.jpg?raw=true")
+  background-image : url("https://github.com/abolfazlrasoulizade/abolfazlrasoulizade.github.io/blob/main/img/Vector_29.jpg?raw=true");
+  margin-left : 45%;
 }
 .profile{
 }
