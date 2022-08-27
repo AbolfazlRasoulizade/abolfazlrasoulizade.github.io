@@ -3,7 +3,7 @@ html {
 }
 
 .back {
-  width = 276px;
-  height = 480px;
+  width : 480px;
+  height : 276px;
   background-color : green;
 }
