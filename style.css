@@ -1,13 +1,13 @@
 html , body {
   height : 100hv;
   background-image : url("https://github.com/abolfazlrasoulizade/abolfazlrasoulizade.github.io/blob/main/img/wp5710611.jpg?raw=true");
-  backgriund-position : center center;
+  background-position : center center;
   background-size : contain;
   background-repeat : no-repeat;
 }
 img {
   text-align : center;
-  weight : 150px;
+  width : 150px;
   height : 150px;
   border-top-right-radius : 10px;
   border-bottom-left-radius : 10px;
