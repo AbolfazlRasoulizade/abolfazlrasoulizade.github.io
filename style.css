@@ -27,6 +27,7 @@ body {
 }
 
 .profile{
+  backgeround-image : url("https://github.com/abolfazlrasoulizade/abolfazlrasoulizade.github.io/blob/main/img/Untitled-3.png?raw=true");
   margin-left : 145px;
   margin-top : 12px;
   width = 85;
@@ -41,4 +42,9 @@ body {
   background-color : black;
   border-bottom-right-radius : 15px;
   border-bottom-left-radius : 15px;
+}
+
+.github {
+  width : 85px;
+  height : 85px;
 }
