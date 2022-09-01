@@ -23,6 +23,7 @@ body {
   background-size : contain;
   border-top-right-radius : 32px ;
   border-top-left-radius : 33px ;
+  background-repeat : no-repeat;
 }
 
 .profile{
