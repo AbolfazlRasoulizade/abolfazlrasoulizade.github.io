@@ -30,7 +30,7 @@ body {
   backgeround-image : url("https://github.com/abolfazlrasoulizade/abolfazlrasoulizade.github.io/blob/main/img/Untitled-3.png?raw=true");
   margin-left : 145px;
   margin-top : 12px;
-  background-size : contain;
+  background-size : 360px 240px contain;
 }
 
 .camera {
