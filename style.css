@@ -28,8 +28,8 @@ body {
 .profile{
   margin-left : 145px;
   margin-top : 12px;
-  width = auto;
-  height = auto;
+  width = 85;
+  height = 85;
 }
 
 .camera {
