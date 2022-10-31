@@ -29,10 +29,12 @@ body {
 
 .profile{
   backgeround-image : url("https://github.com/abolfazlrasoulizade/abolfazlrasoulizade.github.io/blob/main/img/Untitled-3.png?raw=true");
+  /*
   margin-left : 145px;
   margin-top : 12px;
   height : 360px;
-  width : 240px;
+  width : 240px; 
+  */
 }
 
 .camera {
